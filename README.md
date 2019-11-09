@@ -4,10 +4,10 @@
 
 ## IP Address: 172.31.35.139
 
-# URL: http://ec2-18-191-14-89.us-east-2.compute.amazonaws.com/
+## URL: http://ec2-18-191-14-89.us-east-2.compute.amazonaws.com/
 
-# Summary of Software Installed:
+## Summary of Software Installed:
 
-# Summary of Configurations:
+## Summary of Configurations:
 
-# Third-party resources used to complete this project:
+## Third-party resources used to complete this project:
