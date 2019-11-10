@@ -61,8 +61,6 @@ Configured local timezone
 
 Installed git.
 
-Cloned my git respository.
-
 Installed postgresql
 i.      Created the database.
 
@@ -81,18 +79,25 @@ i.      Note:  During testing after logging, in I came back to a blank page and 
 
 Setup virtual host in apache2 and enabled.
    
-
-
 ### Third-party resources used to complete this project:
 How to create a server https://serverpilot.io/docs/how-to-create-a-server-on-amazon-lightsail
+
 Ubnuntu documentation https://help.ubuntu.com/community/UFW
+
 How to setup an uncomplicated firewall in Ubuntu hhttps://www.techrepublic.com/article/how-to-install-and-use-uncomplicated-firewall-in-ubuntu/
+
 Automatic Updates https://help.ubuntu.com/lts/serverguide/automatic-updates.html
+
 Automatic Security Updates https://help.ubuntu.com/community/AutomaticSecurityUpdates
+
 How to add and delete users on Ubuntu https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps
+
 How to set up SSH keys https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+
 How to secure Postgresql https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+
 Flask documentation https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+
 Create a Python3 Virtual Environment https://superuser.com/questions/1039369/create-a-python-3-virtual-environment
 
 
