@@ -30,33 +30,39 @@ i.      Setup a security group to only allow connections to ports:
 2200/tcp
 123/udp
 80/tcp
+
 Uncomplicated Firewall
 
 i.      Setup to only allow ports:
-2200/tcp
-123/udp
-80/tcp
-Block all other traffic
+   2200/tcp
+   123/udp
+   80/tcp
+   Block all other traffic
+
 Updated OS and Software
-i.      Updated and upgraded all packages
+   i.      Updated and upgraded all packages
 
 SSH Setup
-i.      Modified ssh to utilize port 2200.
+   i.      Modified ssh to utilize port 2200.
 
-ii.      Modified ssh to not allow root to login.
+   ii.      Modified ssh to not allow root to login.
+
 
 Created a user for myself / grader and catalog.
+
 SSH Key Setup
-i.      Created ssh keys for myself and the grader user.
+   i.      Created ssh keys for myself and the grader user.
 
 Sudoers setup
-i.      Modified the sodoers file to allow my user and the grader user to be able to use sudo.
+   i.      Modified the sodoers file to allow my user and the grader user to be able to use sudo.
 
 Configured local timezone
-i.      Configured the server to utilize the local (Central) timezone.
+   i.      Configured the server to utilize the local (Central) timezone.
 
 Installed git.
+
 Cloned my git respository.
+
 Installed postgresql
 i.      Created the database.
 
